@@ -5,6 +5,6 @@ Slides and sample codes of the tech talk presented at Avatech, Tehran on 19th Ja
 ## Covered topics
 
 1. Scala compiler overview
-1. Scala compiler plugin
+1. Scala compiler plugins
 1. Blackbox / Whitebox / Annotation macros
 1. Exploring Scala.meta
