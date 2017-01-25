@@ -1,0 +1,4 @@
+<plugin>
+    <name>verbose-logger</name>
+    <classname>ir.taheri.VerboseLogger</classname>
+</plugin>
